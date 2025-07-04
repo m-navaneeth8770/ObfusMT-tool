@@ -56,6 +56,23 @@ Special symbols like space, backslash, etc.
 
 Output: Garbled or encoded payloads for fuzzing, obfuscation, or CTF-style challenges.
 
+## 📸 Screenshots
+
+###  Input UI
+![Code Input ](screenshots/Input.png)
+### Obfuscate Mode
+![Obfuscate Mode](screenshots/obfuscate.png)
+
+### Deobfuscate Mode
+![Deobfuscate Mode](screenshots/deobfuscate.png)
+
+### Payload Mode – Settings
+![Payload Mode – Settings](screenshots/payload-settings.png)
+
+### Payload Mode – Output
+![Payload Mode – Output](screenshots/payload-output.png)
+
+
 * Tech Stack
 Frontend: React, Tailwind CSS
 

@@ -86,7 +86,7 @@ Additional Tools: Obfuscation Modules, REST APIs
 *How to Run
 
 # Clone the repository
-git clone https://github.com/your-username/obfusmt.git
+git clone https://github.com/m-navaneeth8770/obfusmt.git
 cd obfusmt
 
 # Run using Docker Compose
